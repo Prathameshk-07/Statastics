@@ -1,0 +1,24 @@
+1.Discriptive Statastics:
+     It is used to sammerise,describe and represent the data.
+
+2.Inferential Statastics:
+
+     It takes the small sample form entire population for prediction and to do draw probabilic conclusion. 
+
+A.Discriptive Statastics:
+
+Measure of Cetral Tendancy:
+      
+      It is the single value gives a center value or typical value.
+
+    a.Mean:
+       It is the sum of all obseravtion divide by total count.
+
+      Formula= sum(Observation)/ Total number of Data(n)
+
+    b.Median:
+       It is used to find the middle value 
+       formula=M= X(n+1/2)
+
+    c.Mode
+      It is the highest frequency of an any value 
